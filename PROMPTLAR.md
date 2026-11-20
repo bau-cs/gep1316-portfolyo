@@ -19,7 +19,7 @@ Bu çalışmanın hazırlanmasında **ChatGPT (OpenAI)** kullanılmıştır. Aş
 | Kullanma amacı | README taslağı, Python programı, kod yorumları, hata kontrolü, program açıklamaları ve prompt günlüğünün hazırlanması. |
 | Kontrol ve sorumluluk | Yapay zekâ tarafından üretilen içeriği gözden geçirdiğimi, gerekli düzeltmeleri yaptığımı ve teslim ettiğim çalışmanın doğruluğundan ve akademik dürüstlüğünden sorumlu olduğumu; programı kendi bilgisayarımda test ettikten sonra beyan ederim. |
 | Öğrencinin adı-soyadı | Hüseyin Can Sevinç |
-| Tarih ve İmza | 20.11.2026 - İmza: __________________________ |
+| Tarih ve İmza | 20.11.2026 - İmza:Hüseyin Can Sevinç|
 
 **APA 7 kaynakça:**
 
